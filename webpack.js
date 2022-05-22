@@ -48,8 +48,8 @@ const prodConfig = {
                   unused: true
                 },
                 mangle: {
-                  keepClassnames: false,
-                  keepFnames: false,
+                  keepClassNames: false,
+                  keepFnNames: false,
                   keepPrivateProps: false,
                   topLevel: false,
                   reserved: [],
